@@ -6,7 +6,6 @@ This project demonstrates the implementation of a cloud infrastructure using **T
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Architecture Diagram](#architecture-diagram)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [CI/CD Pipeline](#cicd-pipeline)
