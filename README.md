@@ -1,7 +1,3 @@
-Sure! Below is a sample README file for your project titled **"Cloud Infrastructure Monitoring & Automation with AIOps/MLOps."** Feel free to modify any sections to better suit your preferences or specific project details.
-
----
-
 # Cloud Infrastructure Monitoring & Automation with AIOps/MLOps
 
 ## Project Overview
@@ -55,7 +51,7 @@ To get a local copy of the project up and running, follow these steps:
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cloud-infra-monitoring-aiops-mlops.git
+   git clone https://github.com/varshney-anshika/cloud-infra-monitoring-aiops-mlops.git
    cd cloud-infra-monitoring-aiops-mlops
    ```
 
