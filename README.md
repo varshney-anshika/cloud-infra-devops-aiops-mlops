@@ -34,11 +34,7 @@ This project demonstrates the implementation of a cloud infrastructure using **T
 - **MLOps Tools**: MLFlow / Kubeflow
 - **Scripting**: Python
 
-## Architecture Diagram
-![Architecture Diagram](link-to-your-architecture-diagram.png)
-
 ## Getting Started
-To get a local copy of the project up and running, follow these steps:
 
 ### Prerequisites
 - Ensure you have the following installed on your machine:
