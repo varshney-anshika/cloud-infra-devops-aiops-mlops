@@ -1,7 +1,3 @@
-Sure! Below is a sample README file for your project titled **"Cloud Infrastructure Monitoring & Automation with AIOps/MLOps."** Feel free to modify any sections to better suit your preferences or specific project details.
-
----
-
 # Cloud Infrastructure Monitoring & Automation with AIOps/MLOps
 
 ## Project Overview
@@ -127,6 +123,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
-
-Feel free to adapt this template according to your project's specific details, including any additional sections or technologies you wish to highlight. Would you like assistance with anything else?
